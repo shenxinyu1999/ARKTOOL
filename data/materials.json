@@ -1,0 +1,947 @@
+{
+    "3211": {
+        "itemId": "3211",
+        "name": "先锋芯片",
+        "rarity": 2,
+        "buildingProductList": [
+            {
+                "id": "3271",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3212": {
+        "itemId": "3212",
+        "name": "先锋芯片组",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "3272",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3213": {
+        "itemId": "3213",
+        "name": "先锋双芯片",
+        "rarity": 4,
+        "buildingProductList": [
+            {
+                "id": "3212",
+                "count": 2,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "32001",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3221": {
+        "itemId": "3221",
+        "name": "近卫芯片",
+        "rarity": 2,
+        "buildingProductList": [
+            {
+                "id": "3281",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3222": {
+        "itemId": "3222",
+        "name": "近卫芯片组",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "3282",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3223": {
+        "itemId": "3223",
+        "name": "近卫双芯片",
+        "rarity": 4,
+        "buildingProductList": [
+            {
+                "id": "3222",
+                "count": 2,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "32001",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3231": {
+        "itemId": "3231",
+        "name": "重装芯片",
+        "rarity": 2,
+        "buildingProductList": [
+            {
+                "id": "3261",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3232": {
+        "itemId": "3232",
+        "name": "重装芯片组",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "3262",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3233": {
+        "itemId": "3233",
+        "name": "重装双芯片",
+        "rarity": 4,
+        "buildingProductList": [
+            {
+                "id": "3232",
+                "count": 2,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "32001",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3241": {
+        "itemId": "3241",
+        "name": "狙击芯片",
+        "rarity": 2,
+        "buildingProductList": [
+            {
+                "id": "3251",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3242": {
+        "itemId": "3242",
+        "name": "狙击芯片组",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "3252",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3243": {
+        "itemId": "3243",
+        "name": "狙击双芯片",
+        "rarity": 4,
+        "buildingProductList": [
+            {
+                "id": "3242",
+                "count": 2,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "32001",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3251": {
+        "itemId": "3251",
+        "name": "术师芯片",
+        "rarity": 2,
+        "buildingProductList": [
+            {
+                "id": "3241",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3252": {
+        "itemId": "3252",
+        "name": "术师芯片组",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "3242",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3253": {
+        "itemId": "3253",
+        "name": "术师双芯片",
+        "rarity": 4,
+        "buildingProductList": [
+            {
+                "id": "3252",
+                "count": 2,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "32001",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3261": {
+        "itemId": "3261",
+        "name": "医疗芯片",
+        "rarity": 2,
+        "buildingProductList": [
+            {
+                "id": "3231",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3262": {
+        "itemId": "3262",
+        "name": "医疗芯片组",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "3232",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3263": {
+        "itemId": "3263",
+        "name": "医疗双芯片",
+        "rarity": 4,
+        "buildingProductList": [
+            {
+                "id": "3262",
+                "count": 2,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "32001",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3271": {
+        "itemId": "3271",
+        "name": "辅助芯片",
+        "rarity": 2,
+        "buildingProductList": [
+            {
+                "id": "3211",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3272": {
+        "itemId": "3272",
+        "name": "辅助芯片组",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "3212",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3273": {
+        "itemId": "3273",
+        "name": "辅助双芯片",
+        "rarity": 4,
+        "buildingProductList": [
+            {
+                "id": "3272",
+                "count": 2,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "32001",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3281": {
+        "itemId": "3281",
+        "name": "特种芯片",
+        "rarity": 2,
+        "buildingProductList": [
+            {
+                "id": "3221",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3282": {
+        "itemId": "3282",
+        "name": "特种芯片组",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "3222",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3283": {
+        "itemId": "3283",
+        "name": "特种双芯片",
+        "rarity": 4,
+        "buildingProductList": [
+            {
+                "id": "3282",
+                "count": 2,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "32001",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3301": {
+        "itemId": "3301",
+        "name": "技巧概要·卷1",
+        "rarity": 1,
+        "buildingProductList": []
+    },
+    "3302": {
+        "itemId": "3302",
+        "name": "技巧概要·卷2",
+        "rarity": 2,
+        "buildingProductList": [
+            {
+                "id": "3301",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "3303": {
+        "itemId": "3303",
+        "name": "技巧概要·卷3",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "3302",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30011": {
+        "itemId": "30011",
+        "name": "源岩",
+        "rarity": 0,
+        "buildingProductList": []
+    },
+    "30012": {
+        "itemId": "30012",
+        "name": "固源岩",
+        "rarity": 1,
+        "buildingProductList": [
+            {
+                "id": "30011",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30013": {
+        "itemId": "30013",
+        "name": "固源岩组",
+        "rarity": 2,
+        "buildingProductList": [
+            {
+                "id": "30012",
+                "count": 5,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30014": {
+        "itemId": "30014",
+        "name": "提纯源岩",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "30013",
+                "count": 4,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30021": {
+        "itemId": "30021",
+        "name": "代糖",
+        "rarity": 0,
+        "buildingProductList": []
+    },
+    "30022": {
+        "itemId": "30022",
+        "name": "糖",
+        "rarity": 1,
+        "buildingProductList": [
+            {
+                "id": "30021",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30023": {
+        "itemId": "30023",
+        "name": "糖组",
+        "rarity": 2,
+        "buildingProductList": [
+            {
+                "id": "30022",
+                "count": 4,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30024": {
+        "itemId": "30024",
+        "name": "糖聚块",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "30023",
+                "count": 2,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30043",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30083",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30031": {
+        "itemId": "30031",
+        "name": "酯原料",
+        "rarity": 0,
+        "buildingProductList": []
+    },
+    "30032": {
+        "itemId": "30032",
+        "name": "聚酸酯",
+        "rarity": 1,
+        "buildingProductList": [
+            {
+                "id": "30031",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30033": {
+        "itemId": "30033",
+        "name": "聚酸酯组",
+        "rarity": 2,
+        "buildingProductList": [
+            {
+                "id": "30032",
+                "count": 4,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30034": {
+        "itemId": "30034",
+        "name": "聚酸酯块",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "30033",
+                "count": 2,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30053",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30073",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30041": {
+        "itemId": "30041",
+        "name": "异铁碎片",
+        "rarity": 0,
+        "buildingProductList": []
+    },
+    "30042": {
+        "itemId": "30042",
+        "name": "异铁",
+        "rarity": 1,
+        "buildingProductList": [
+            {
+                "id": "30041",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30043": {
+        "itemId": "30043",
+        "name": "异铁组",
+        "rarity": 2,
+        "buildingProductList": [
+            {
+                "id": "30042",
+                "count": 4,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30044": {
+        "itemId": "30044",
+        "name": "异铁块",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "30043",
+                "count": 2,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30063",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30033",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30051": {
+        "itemId": "30051",
+        "name": "双酮",
+        "rarity": 0,
+        "buildingProductList": []
+    },
+    "30052": {
+        "itemId": "30052",
+        "name": "酮凝集",
+        "rarity": 1,
+        "buildingProductList": [
+            {
+                "id": "30051",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30053": {
+        "itemId": "30053",
+        "name": "酮凝集组",
+        "rarity": 2,
+        "buildingProductList": [
+            {
+                "id": "30052",
+                "count": 4,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30054": {
+        "itemId": "30054",
+        "name": "酮阵列",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "30053",
+                "count": 2,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30023",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30083",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30061": {
+        "itemId": "30061",
+        "name": "破损装置",
+        "rarity": 0,
+        "buildingProductList": []
+    },
+    "30062": {
+        "itemId": "30062",
+        "name": "装置",
+        "rarity": 1,
+        "buildingProductList": [
+            {
+                "id": "30061",
+                "count": 3,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30063": {
+        "itemId": "30063",
+        "name": "全新装置",
+        "rarity": 2,
+        "buildingProductList": [
+            {
+                "id": "30062",
+                "count": 4,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30064": {
+        "itemId": "30064",
+        "name": "改量装置",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "30063",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30013",
+                "count": 2,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30093",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30073": {
+        "itemId": "30073",
+        "name": "扭转醇",
+        "rarity": 2,
+        "buildingProductList": []
+    },
+    "30074": {
+        "itemId": "30074",
+        "name": "白马醇",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "30073",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30023",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30103",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30083": {
+        "itemId": "30083",
+        "name": "轻锰矿",
+        "rarity": 2,
+        "buildingProductList": []
+    },
+    "30084": {
+        "itemId": "30084",
+        "name": "三水锰矿",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "30083",
+                "count": 2,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30033",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30073",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30093": {
+        "itemId": "30093",
+        "name": "研磨石",
+        "rarity": 2,
+        "buildingProductList": []
+    },
+    "30094": {
+        "itemId": "30094",
+        "name": "五水研磨石",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "30093",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30043",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30063",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30103": {
+        "itemId": "30103",
+        "name": "RMA70-12",
+        "rarity": 2,
+        "buildingProductList": []
+    },
+    "30104": {
+        "itemId": "30104",
+        "name": "RMA70-24",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "30103",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30013",
+                "count": 2,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30053",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30115": {
+        "itemId": "30115",
+        "name": "聚合剂",
+        "rarity": 4,
+        "buildingProductList": [
+            {
+                "id": "30014",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30044",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30054",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30125": {
+        "itemId": "30125",
+        "name": "双极纳米片",
+        "rarity": 4,
+        "buildingProductList": [
+            {
+                "id": "30064",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30074",
+                "count": 2,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30135": {
+        "itemId": "30135",
+        "name": "D32钢",
+        "rarity": 4,
+        "buildingProductList": [
+            {
+                "id": "30084",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30094",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30104",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "30145": {
+        "itemId": "30145",
+        "name": "晶体电子单元 ",
+        "rarity": 4,
+        "buildingProductList": [
+            {
+                "id": "31034",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "31014",
+                "count": 2,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "31024",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "31013": {
+        "itemId": "31013",
+        "name": "凝胶",
+        "rarity": 2,
+        "buildingProductList": []
+    },
+    "31014": {
+        "itemId": "31014",
+        "name": "聚合凝胶",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "30043",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "31013",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "31023",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "31023": {
+        "itemId": "31023",
+        "name": "炽合金",
+        "rarity": 2,
+        "buildingProductList": []
+    },
+    "31024": {
+        "itemId": "31024",
+        "name": "炽合金块",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "30063",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "30093",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "31023",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "31033": {
+        "itemId": "31033",
+        "name": "晶体元件",
+        "rarity": 2,
+        "buildingProductList": []
+    },
+    "31034": {
+        "itemId": "31034",
+        "name": "晶体电路",
+        "rarity": 3,
+        "buildingProductList": [
+            {
+                "id": "31033",
+                "count": 2,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "31013",
+                "count": 1,
+                "type": "MATERIAL"
+            },
+            {
+                "id": "31023",
+                "count": 1,
+                "type": "MATERIAL"
+            }
+        ]
+    },
+    "32001": {
+        "itemId": "32001",
+        "name": "芯片助剂",
+        "rarity": 3,
+        "buildingProductList": []
+    }
+}

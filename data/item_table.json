@@ -1,0 +1,2582 @@
+{
+  "3301": {
+    "itemId": "3301",
+    "name": "技巧概要·卷1",
+    "description": "记录着干员们所需的入门技艺，普通人只要经过简略学习就能完全掌握。",
+    "rarity": 1,
+    "iconId": "MTL_SKILL1",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 80003,
+    "usage": "记载了入门技巧的书籍，用于升级干员技能。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "wk_fly_1",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "main_01-10",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": []
+  },
+  "3302": {
+    "itemId": "3302",
+    "name": "技巧概要·卷2",
+    "description": "记录着干员们所需的进阶技艺，需要耗费一定时间研读并付诸实践才能扎实掌握。",
+    "rarity": 2,
+    "iconId": "MTL_SKILL2",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 80002,
+    "usage": "记载了进阶技巧的书籍，用于升级干员技能。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "wk_fly_1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "37"
+      }
+    ]
+  },
+  "3303": {
+    "itemId": "3303",
+    "name": "技巧概要·卷3",
+    "description": "记录着干员们所需的专家级技艺，需要特定领域长久的经验积累才能一窥其中的奥妙。",
+    "rarity": 3,
+    "iconId": "MTL_SKILL3",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 80001,
+    "usage": "记载了专家技巧的书籍，用于升级干员技能。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "wk_fly_1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "38"
+      }
+    ]
+  },
+  "30011": {
+    "itemId": "30011",
+    "name": "源岩",
+    "description": "富含有机物，常见于源石挥发殆尽后的地区。相对源石来说是较为容易采集的材料。",
+    "rarity": 0,
+    "iconId": "MTL_SL_G1",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100015,
+    "usage": "从地表开采出的岩石，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act15d0_03",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act13d5_02",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act13d0_02",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act12d0_01",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act11d0_03",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act10d5_02",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act9d0_01",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act4d0_02",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "a001_01",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "main_00-09",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "sub_02-05",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": []
+  },
+  "30012": {
+    "itemId": "30012",
+    "name": "固源岩",
+    "description": "内含有密集的微孔，常作为源石气体分解物的吸附剂。多用于防护夹层。",
+    "rarity": 1,
+    "iconId": "MTL_SL_G2",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100014,
+    "usage": "从地表开采出的岩石固块，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act15d0_04",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "act13d5_05",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act12d0_04",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "act11d0_04",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "act9d0_04",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act6d5_03",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "main_01-07",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "sub_02-12",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "main_05-10",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_07-14",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "sub_06-1-2",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "sub_03-3-2",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "sub_05-1-1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "34"
+      }
+    ]
+  },
+  "30013": {
+    "itemId": "30013",
+    "name": "固源岩组",
+    "description": "固源岩的压缩定型产物，可自然形成。易碎，随着工业实力的提升，采集到更加完整的固源岩组已不成问题。只是在分类存放时容易和其它用途的石料搞混。",
+    "rarity": 2,
+    "iconId": "MTL_SL_G3",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100013,
+    "usage": "从地表开采出的岩石固块组，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act12d0_06",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_02-04",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_04-06",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_05-01",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_06-05",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_07-01",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_07-05",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_08-03",
+        "occPer": "OFTEN"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "35"
+      }
+    ]
+  },
+  "30014": {
+    "itemId": "30014",
+    "name": "提纯源岩",
+    "description": "高度提纯后的源岩展现出了不同于原料的型态，其工艺消耗与提纯成本也急剧上升。无论是谁，看着规则的切割面都会不禁发出感慨吧。这就是工业与自然结合的魅力。",
+    "rarity": 3,
+    "iconId": "MTL_SL_G4",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100012,
+    "usage": "从地表开采出的岩石固块组提纯出的物质，可用于多种强化场合，也常作为制作聚合剂的原料之一。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "main_04-06",
+        "occPer": "SOMETIMES"
+      },
+      {
+        "stageId": "main_07-01",
+        "occPer": "SOMETIMES"
+      },
+      {
+        "stageId": "main_08-03",
+        "occPer": "SOMETIMES"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "36"
+      }
+    ]
+  },
+  "30061": {
+    "itemId": "30061",
+    "name": "破损装置",
+    "description": "一些残破的装置。这些装置曾被拼装在敌人的武器和防具上，经历了激烈的战斗后已经损坏，不过其内部元件依旧具备一定的使用价值。",
+    "rarity": 0,
+    "iconId": "MTL_SL_BOSS1",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100019,
+    "usage": "收缴来的破损机械装置，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act15d0_01",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "act13d5_02",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act13d0_01",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "act12d0_02",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act11d0_01",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "act9d0_02",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "act7d5_01",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "a001_02",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_01-05",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_02-03",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": []
+  },
+  "30062": {
+    "itemId": "30062",
+    "name": "装置",
+    "description": "一套相对完整的装置，含有大量密集的可用电子元件。为了迎合轻便实用的设计，主板寸土寸金的空间被塞的满满当当。",
+    "rarity": 1,
+    "iconId": "MTL_SL_BOSS2",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100018,
+    "usage": "收缴来的常规机械装置，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act15d0_05",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "act13d5_04",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "act13d0_05",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "act12d0_05",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "act11d0_05",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "act9d0_05",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "act6d5_05",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "main_01-12",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_06-10",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_08-09",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "sub_03-2-2",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "sub_05-3-1",
+        "occPer": "USUAL"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "19"
+      }
+    ]
+  },
+  "30063": {
+    "itemId": "30063",
+    "name": "全新装置",
+    "description": "一套全新装配而成的装置，通过重构同类型装置的结构，主板原本一直存在的空间紧张的问题得到了解决，当然启动时的能耗要求也变高了。",
+    "rarity": 2,
+    "iconId": "MTL_SL_BOSS3",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100017,
+    "usage": "收缴来的全新机械装置，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "main_03-04",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_04-10",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_05-10",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_06-14",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_07-07",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_07-13",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_08-14",
+        "occPer": "OFTEN"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "20"
+      }
+    ]
+  },
+  "30064": {
+    "itemId": "30064",
+    "name": "改量装置",
+    "description": "经过大量私自改造的装置，是极大扩充了容量后的版本，大幅提升性能的同时牺牲了稳定性，从中能感受到制作者所投入的狂热与执着......",
+    "rarity": 3,
+    "iconId": "MTL_SL_BOSS4",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100016,
+    "usage": "收缴来的高等机械装置，可用于多种强化场合，也常作为制作双极纳米片的原料之一。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "main_04-10",
+        "occPer": "SOMETIMES"
+      },
+      {
+        "stageId": "main_07-07",
+        "occPer": "SOMETIMES"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "21"
+      }
+    ]
+  },
+  "30031": {
+    "itemId": "30031",
+    "name": "酯原料",
+    "description": "近代工业中至关重要的材料之一，许多现代产品的诞生都归功于它的出现。当然了，这只是原料，几乎派不上什么大用场。",
+    "rarity": 0,
+    "iconId": "MTL_SL_RUSH1",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100023,
+    "usage": "工业制造所需的酯原料，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act15d0_02",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act13d5_03",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act12d0_02",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "act11d0_02",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act9d0_02",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act6d5_01",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "a001_01",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "main_00-11",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "sub_02-07",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": []
+  },
+  "30032": {
+    "itemId": "30032",
+    "name": "聚酸酯",
+    "description": "虽然强度上还略有不足，但已经可以用来制作我们所需要的部分基础物件。同时是一些缓释药物中的常用成分。",
+    "rarity": 1,
+    "iconId": "MTL_SL_RUSH2",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100022,
+    "usage": "工业制造所需的零散聚酸酯，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act15d0_04",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act13d0_04",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "act12d0_04",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act11d0_04",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act7d5_03",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "a001_04",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_01-08",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "main_06-05",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_06-08",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "main_08-04",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "sub_03-1-2",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "sub_05-2-1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "28"
+      }
+    ]
+  },
+  "30033": {
+    "itemId": "30033",
+    "name": "聚酸酯组",
+    "description": "进一步加工后的材料，符合通用标准，能够满足市面上绝大多数的需求。可以用于加工一些特殊材料。",
+    "rarity": 2,
+    "iconId": "MTL_SL_RUSH3",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100021,
+    "usage": "工业制造所需的一组聚酸酯，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act13d5_07",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "act10d5_05",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "act4d0_05",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_02-06",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_03-08",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_05-03",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_06-04",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_07-03",
+        "occPer": "USUAL"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "29"
+      }
+    ]
+  },
+  "30034": {
+    "itemId": "30034",
+    "name": "聚酸酯块",
+    "description": "精炼提纯后的材料。作为商品，主要面向的客户是对原材料有极高要求的组织和科研机构。也许会成为新一代材料的试金石也说不定哦。",
+    "rarity": 3,
+    "iconId": "MTL_SL_RUSH4",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100020,
+    "usage": "工业制造所需的成块聚酸酯，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "main_03-08",
+        "occPer": "SOMETIMES"
+      },
+      {
+        "stageId": "main_06-04",
+        "occPer": "SOMETIMES"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "30"
+      }
+    ]
+  },
+  "30021": {
+    "itemId": "30021",
+    "name": "代糖",
+    "description": "有着微弱的甜味，也许可以吃。同时其溶液也常用于化工用途。",
+    "rarity": 0,
+    "iconId": "MTL_SL_STRG1",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100027,
+    "usage": "机械化制作的廉价天然糖替代产物，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act15d0_01",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act13d5_01",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "act13d0_03",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act12d0_03",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act11d0_01",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act10d5_01",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act9d0_01",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act4d0_01",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "a001_02",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "main_00-07",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "sub_02-06",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": []
+  },
+  "30022": {
+    "itemId": "30022",
+    "name": "糖",
+    "description": "使用自然原材制作的稍显贵重的糖料。啊啊，这个味道......会带来不错的好心情。不是用来当零食吃的。",
+    "rarity": 1,
+    "iconId": "MTL_SL_STRG2",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100026,
+    "usage": "机械化制作的少量糖块，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act13d5_04",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act9d0_05",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act6d5_04",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "a001_03",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_02-02",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "main_05-03",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_07-02",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "main_07-05",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_08-05",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "sub_03-1-1",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "sub_05-2-2",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "31"
+      }
+    ]
+  },
+  "30023": {
+    "itemId": "30023",
+    "name": "糖组",
+    "description": "饱含能量、广受欢迎的糖块组合包。在被加工成化工材料之前，份量就总是有所减少。流水线上的员工们似乎脱不了干系。",
+    "rarity": 2,
+    "iconId": "MTL_SL_STRG3",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100025,
+    "usage": "机械化制作的中等量糖块，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act15d0_06",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "act12d0_07",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "act9d0_06",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_02-05",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_04-02",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_05-02",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_06-03",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_07-10",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_08-12",
+        "occPer": "USUAL"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "32"
+      }
+    ]
+  },
+  "30024": {
+    "itemId": "30024",
+    "name": "糖聚块",
+    "description": "充满诱惑力的精加工糖块堆，通常用于制备药剂。严禁在加工前偷吃！这不是一般的食品，也不会作为食品售卖！不会！",
+    "rarity": 3,
+    "iconId": "MTL_SL_STRG4",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100024,
+    "usage": "机械化制作的大量糖块，可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "main_04-02",
+        "occPer": "SOMETIMES"
+      },
+      {
+        "stageId": "main_05-02",
+        "occPer": "SOMETIMES"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "33"
+      }
+    ]
+  },
+  "30041": {
+    "itemId": "30041",
+    "name": "异铁碎片",
+    "description": "大规模金属原料加工的副产物，因其可塑性强、难以被氧化的特性，常被用于材料金属熔炼与阶段性再处理。",
+    "rarity": 0,
+    "iconId": "MTL_SL_IRON1",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100031,
+    "usage": "普普通通的工业材料。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act15d0_03",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act13d5_01",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act12d0_01",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act11d0_03",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act9d0_03",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act6d5_02",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "main_01-03",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "sub_02-08",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": []
+  },
+  "30042": {
+    "itemId": "30042",
+    "name": "异铁",
+    "description": "在少数惰化流程中，异铁碎片偶尔会产生相变，聚合为异铁。一般认为达到此量级的异铁产物才是异铁较为稳定的形态。",
+    "rarity": 1,
+    "iconId": "MTL_SL_IRON2",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100030,
+    "usage": "罕见的工业材料。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act13d5_05",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act12d0_05",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act10d5_04",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act9d0_04",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "act7d5_04",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act4d0_04",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "a001_03",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "main_02-01",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_05-07",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_06-01",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "main_07-09",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "main_08-12",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "sub_03-2-1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "25"
+      }
+    ]
+  },
+  "30043": {
+    "itemId": "30043",
+    "name": "异铁组",
+    "description": "加工过程中，多块异铁在极少数非人为因素影响下，偶然产生的异铁组合，硬度下降，纯度进一步上升。",
+    "rarity": 2,
+    "iconId": "MTL_SL_IRON3",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100029,
+    "usage": "珍贵的工业材料。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act15d0_08",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "act13d0_08",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "act10d5_06",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "act9d0_08",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_02-08",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_05-05",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_06-09",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_07-16",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "sub_04-1-1",
+        "occPer": "OFTEN"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "26"
+      }
+    ]
+  },
+  "30044": {
+    "itemId": "30044",
+    "name": "异铁块",
+    "description": "在极为苛刻的条件下，由多套异铁组熔铸成型的异铁块。已知异铁材料中最为稳定也最为稀少的形式，作为原材料，足以打破现有制品运用领域的疆界。",
+    "rarity": 3,
+    "iconId": "MTL_SL_IRON4",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100028,
+    "usage": "价值高昂的工业材料。可用于多种强化场合，也常作为制作聚合剂的原料之一。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "main_05-05",
+        "occPer": "SOMETIMES"
+      },
+      {
+        "stageId": "sub_04-1-1",
+        "occPer": "SOMETIMES"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "27"
+      }
+    ]
+  },
+  "30051": {
+    "itemId": "30051",
+    "name": "双酮",
+    "description": "极少量的非单酮制剂，通过再处理后，工程干员将藉由其发生的化合反应转变过程中的固化现象，来粘结其它稳定结构。",
+    "rarity": 0,
+    "iconId": "MTL_SL_KETONE1",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100035,
+    "usage": "极少量的工业用有机化合物。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act15d0_02",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "act12d0_03",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act11d0_02",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "act9d0_03",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "act7d5_02",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "main_01-06",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "sub_02-09",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": []
+  },
+  "30052": {
+    "itemId": "30052",
+    "name": "酮凝集",
+    "description": "经过特殊处理后产出的少量多态酮制剂，易于闭合的分子构造能将原本繁杂的处理工艺简化为单纯的化学反应，当然，也需要一定的技术支持。",
+    "rarity": 1,
+    "iconId": "MTL_SL_KETONE2",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100034,
+    "usage": "少量的工业用有机化合物。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act15d0_05",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act13d5_03",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "act11d0_05",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "act10d5_03",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "act4d0_03",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "a001_04",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "sub_02-01",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_03-07",
+        "occPer": "ALWAYS"
+      },
+      {
+        "stageId": "main_06-14",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_07-10",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_07-16",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_08-08",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "sub_06-2-1",
+        "occPer": "ALMOST"
+      },
+      {
+        "stageId": "sub_07-1-2",
+        "occPer": "ALMOST"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "22"
+      }
+    ]
+  },
+  "30053": {
+    "itemId": "30053",
+    "name": "酮凝集组",
+    "description": "进一步脱烃处理后得到的中等量酮制剂。制剂接触空气后易与空气中的一些非氧分子发生反应。所以在处理过程中，工程干员理当精准操作，以免浪费材料。",
+    "rarity": 2,
+    "iconId": "MTL_SL_KETONE3",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100033,
+    "usage": "中等量的工业用有机化合物。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act15d0_07",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "act13d0_07",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "act11d0_07",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "act6d5_06",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_03-01",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_04-05",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_05-08",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_06-07",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_07-12",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_08-17",
+        "occPer": "OFTEN"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "23"
+      }
+    ]
+  },
+  "30054": {
+    "itemId": "30054",
+    "name": "酮阵列",
+    "description": "由工程干员严格监控的大量不稳定实验性酮制剂。是高级的工业材料之一，运用时也请多加小心。",
+    "rarity": 3,
+    "iconId": "MTL_SL_KETONE4",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100032,
+    "usage": "大量的工业用有机化合物。可用于多种强化场合，也常作为制作聚合剂的原料之一。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "main_04-05",
+        "occPer": "SOMETIMES"
+      },
+      {
+        "stageId": "main_05-08",
+        "occPer": "SOMETIMES"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "24"
+      }
+    ]
+  },
+  "30073": {
+    "itemId": "30073",
+    "name": "扭转醇",
+    "description": "优秀的化工中介体，常在两种形状间转换以储存和放出传导物质。液化后与酒精在某些性质上十分相似，时常导致整个工作间醉醺醺的。",
+    "rarity": 2,
+    "iconId": "MTL_SL_ALCOHOL1",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100005,
+    "usage": "片状有机化合物。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act13d0_06",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "act9d0_07",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "act7d5_05",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "act6d5_07",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "a001_05",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_02-09",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_04-04",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_05-04",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_06-10",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_07-04",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_08-02",
+        "occPer": "OFTEN"
+      }
+    ],
+    "buildingProductList": []
+  },
+  "30074": {
+    "itemId": "30074",
+    "name": "白马醇",
+    "description": "扭转醇精加工后的产物，名字来自发现其产出方式的厂家。实验结果表明，拥有在非常态环境中向更高级结构转化的趋势。",
+    "rarity": 3,
+    "iconId": "MTL_SL_ALCOHOL2",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100004,
+    "usage": "片状有机化合物。可用于多种强化场合，也常作为制作双极纳米片的原料之一。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "main_04-04",
+        "occPer": "SOMETIMES"
+      },
+      {
+        "stageId": "main_07-04",
+        "occPer": "SOMETIMES"
+      },
+      {
+        "stageId": "main_08-02",
+        "occPer": "SOMETIMES"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "18"
+      }
+    ]
+  },
+  "30083": {
+    "itemId": "30083",
+    "name": "轻锰矿",
+    "description": "用以产出极为泛用的工业催化剂的金属矿物。再加工过程十分复杂，因不规范操作而导致事故的例子比比皆是。",
+    "rarity": 2,
+    "iconId": "MTL_SL_MANGANESE1",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100007,
+    "usage": "用于提炼冶炼用的金属矿物。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act13d5_08",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_03-02",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_04-07",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_05-06",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_06-02",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_07-14",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_08-11",
+        "occPer": "OFTEN"
+      }
+    ],
+    "buildingProductList": []
+  },
+  "30084": {
+    "itemId": "30084",
+    "name": "三水锰矿",
+    "description": "少有厂家愿意用于生产工业催化剂的珍贵金属矿物。所制催化剂寿命极长，能够多次反复利用并汽提再生，然而复杂的加工工序令多数厂商望而却步。",
+    "rarity": 3,
+    "iconId": "MTL_SL_MANGANESE2",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100006,
+    "usage": "用于提炼冶炼用的金属矿物。可用于多种强化场合，也常作为制作D32钢的原料之一。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "main_04-07",
+        "occPer": "SOMETIMES"
+      },
+      {
+        "stageId": "main_06-02",
+        "occPer": "SOMETIMES"
+      },
+      {
+        "stageId": "main_08-11",
+        "occPer": "SOMETIMES"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "17"
+      }
+    ]
+  },
+  "30093": {
+    "itemId": "30093",
+    "name": "研磨石",
+    "description": "不起爆、不粉化、不开裂，于零件加工工序中占有重要地位的工具材料。自然属性相当稳定。",
+    "rarity": 2,
+    "iconId": "MTL_SL_PG1",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100009,
+    "usage": "用于加工武器零件的研磨石。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act11d0_08",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "act6d5_08",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "a001_06",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_03-03",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_04-08",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_05-07",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_06-12",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_07-15",
+        "occPer": "OFTEN"
+      }
+    ],
+    "buildingProductList": []
+  },
+  "30094": {
+    "itemId": "30094",
+    "name": "五水研磨石",
+    "description": "相较普通研磨石，物质结构更加稳定的工具材料。极难与其它物质发生化学反应。",
+    "rarity": 3,
+    "iconId": "MTL_SL_PG2",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100008,
+    "usage": "用于精加工武器零件的高级研磨石。可用于多种强化场合，也常作为制作D32钢的原料之一。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "main_04-08",
+        "occPer": "SOMETIMES"
+      },
+      {
+        "stageId": "main_07-15",
+        "occPer": "SOMETIMES"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "16"
+      }
+    ]
+  },
+  "30103": {
+    "itemId": "30103",
+    "name": "RMA70-12",
+    "description": "自然态呈复杂多面体的矿物。在被发现其现代工业价值之前，就已经被发现了其在源石技艺施展中的价值。",
+    "rarity": 2,
+    "iconId": "MTL_SL_RMA7012",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100011,
+    "usage": "一种敏感且有良好传导效果的矿物。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act12d0_08",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "main_02-10",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_04-09",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_05-09",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_06-13",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_07-08",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_08-10",
+        "occPer": "OFTEN"
+      }
+    ],
+    "buildingProductList": []
+  },
+  "30104": {
+    "itemId": "30104",
+    "name": "RMA70-24",
+    "description": "自然态呈复杂多面体的矿物。于1024年被发现，在庞大的工业体系中，展现出了在源石技艺体系内其他矿物不曾具备的巨大价值。",
+    "rarity": 3,
+    "iconId": "MTL_SL_RMA7024",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100010,
+    "usage": "一种十分敏感且有优秀传导效果的矿物。可用于多种强化场合，也常作为制作D32钢的原料之一。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "main_04-09",
+        "occPer": "SOMETIMES"
+      },
+      {
+        "stageId": "main_06-13",
+        "occPer": "SOMETIMES"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "15"
+      }
+    ]
+  },
+  "30115": {
+    "itemId": "30115",
+    "name": "聚合剂",
+    "description": "精密穿戴着装中常用的材料。多作为隔绝涂层使用。强大的聚合粘接效果足以阻断源石的挥发。",
+    "rarity": 4,
+    "iconId": "MTL_SL_PP",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100003,
+    "usage": "复杂的液态工业产物。用于高级强化场合。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "14"
+      }
+    ]
+  },
+  "30125": {
+    "itemId": "30125",
+    "name": "双极纳米片",
+    "description": "对范围内源石敏感的装置。能有效提升源石附近范围内作战武器和设备对源石的敏感性，使源石技艺的存储几近可能。",
+    "rarity": 4,
+    "iconId": "MTL_SL_BN",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100002,
+    "usage": "现代工业的创造力结晶。用于高级强化场合。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "13"
+      }
+    ]
+  },
+  "30135": {
+    "itemId": "30135",
+    "name": "D32钢",
+    "description": "强度超群，无法击穿，顺畅传导源石技艺，将重新订立武器材料的标准。",
+    "rarity": 4,
+    "iconId": "MTL_SL_DS",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100001,
+    "usage": "自然界中不应存在的人造金属材料，呈固态。用于高级强化场合。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "12"
+      }
+    ]
+  },
+  "31013": {
+    "itemId": "31013",
+    "name": "凝胶",
+    "description": "于实验室中意外诞生的人工材料。拥有优良的高低温度耐性，强度高，重量轻，易加工，广泛运用于高新项目。",
+    "rarity": 2,
+    "iconId": "MTL_SL_PGEL3",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100037,
+    "usage": "一种高强度的可塑性材料。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act13d5_06",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "act10d5_07",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_07-06",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_08-08",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_08-16",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "sub_04-4-1",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "sub_05-4-1",
+        "occPer": "OFTEN"
+      }
+    ],
+    "buildingProductList": []
+  },
+  "31014": {
+    "itemId": "31014",
+    "name": "聚合凝胶",
+    "description": "以凝胶为源材料，历经大量实验与反复测试诞生的人工材料。即使是在高压力环境中也能保持性质的稳定，在少数高新项目中有着重要地位。",
+    "rarity": 3,
+    "iconId": "MTL_SL_PGEL4",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100036,
+    "usage": "一种具备极高强度的可塑性材料。可用于多种强化场合。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "main_07-06",
+        "occPer": "SOMETIMES"
+      },
+      {
+        "stageId": "main_08-16",
+        "occPer": "SOMETIMES"
+      },
+      {
+        "stageId": "sub_05-4-1",
+        "occPer": "SOMETIMES"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "56"
+      }
+    ]
+  },
+  "31023": {
+    "itemId": "31023",
+    "name": "炽合金",
+    "description": "由数种稀有泰拉金属熔炼成的合金材料。用于制造少数电子元件和电路板，是尖端电子工业中不可或缺的材料。",
+    "rarity": 2,
+    "iconId": "MTL_SL_IAM3",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100039,
+    "usage": "电子工业用特殊高熔点合金。可用于多种强化场合，也常作为制造站合成项目的原料。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "act11d0_06",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "act7d5_06",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_06-11",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "main_08-07",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "sub_03-3-1",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "sub_05-4-2",
+        "occPer": "OFTEN"
+      }
+    ],
+    "buildingProductList": []
+  },
+  "31024": {
+    "itemId": "31024",
+    "name": "炽合金块",
+    "description": "由炽合金进一步加工得到的合金材料。历经复杂的工业处理，保证了一定温度下固液混合态的稳定，在尖端电子工业的产品研发中有着无可替代的作用。",
+    "rarity": 3,
+    "iconId": "MTL_SL_IAM4",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100038,
+    "usage": "产量稀少的电子工业用特殊高熔点合金。可用于多种强化场合。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "main_06-11",
+        "occPer": "SOMETIMES"
+      },
+      {
+        "stageId": "main_08-07",
+        "occPer": "SOMETIMES"
+      },
+      {
+        "stageId": "sub_05-4-2",
+        "occPer": "SOMETIMES"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "55"
+      }
+    ]
+  },
+  "31033": {
+    "itemId": "31033",
+    "name": "晶体元件",
+    "description": "用源石晶体外壳制作的工业原材料，是现代源石电子工业的基础产品。",
+    "rarity": 2,
+    "iconId": "MTL_SL_OC3",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100042,
+    "usage": "重要的源石工业材料，可用于多种强化场合，可以制作与合成更高级的源石电子元件。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "main_08-13",
+        "occPer": "USUAL"
+      },
+      {
+        "stageId": "sub_03-3-2",
+        "occPer": "OFTEN"
+      },
+      {
+        "stageId": "sub_05-4-3",
+        "occPer": "OFTEN"
+      }
+    ],
+    "buildingProductList": []
+  },
+  "31034": {
+    "itemId": "31034",
+    "name": "晶体电路",
+    "description": "现代源石电子产业的核心产品，常见于泰拉诸国使用的大量电子产品中，晶体电路的大量使用也是泰拉工业现代化的体现。",
+    "rarity": 3,
+    "iconId": "MTL_SL_OC4",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100041,
+    "usage": "重要的源石工业材料，可用于多种强化场合，是制作源石晶体单元的基础元件。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "main_08-13",
+        "occPer": "SOMETIMES"
+      },
+      {
+        "stageId": "sub_05-4-3",
+        "occPer": "SOMETIMES"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "58"
+      }
+    ]
+  },
+  "30145": {
+    "itemId": "30145",
+    "name": "晶体电子单元 ",
+    "description": "泰拉源石科技的结晶，泰拉工业现代化的代表。源石施术单元与城际网络服务器的制造都离不开这种科技产品。",
+    "rarity": 4,
+    "iconId": "MTL_SL_OEU",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 100040,
+    "usage": "昂贵的源石工业产品，用于重要的强化场合。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "57"
+      }
+    ]
+  },
+  "32001": {
+    "itemId": "32001",
+    "name": "芯片助剂",
+    "description": "价值高，产量小，让工程干员头疼。",
+    "rarity": 3,
+    "iconId": "MTL_ASC_DI",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400001,
+    "usage": "工业生产中，制造芯片时使用的催化剂。合成双芯片的必备材料。",
+    "obtainApproach": "采购中心",
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [],
+    "buildingProductList": []
+  },
+  "3213": {
+    "itemId": "3213",
+    "name": "先锋双芯片",
+    "description": "通过努力特训得来的素材，似乎能对资历颇深的先锋干员有特别的提升。",
+    "rarity": 4,
+    "iconId": "MTL_ASC_PIO3",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400002,
+    "usage": "通过记录特殊训练获得的成对存储芯片，有助于满足先锋干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [],
+    "buildingProductList": [
+      {
+        "roomType": "MANUFACTURE",
+        "formulaId": "5"
+      }
+    ]
+  },
+  "3223": {
+    "itemId": "3223",
+    "name": "近卫双芯片",
+    "description": "通过努力特训得来的素材，似乎能对资历颇深的近卫干员有特别的提升。",
+    "rarity": 4,
+    "iconId": "MTL_ASC_GRD3",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400003,
+    "usage": "通过记录特殊训练获得的成对存储芯片，有助于满足近卫干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [],
+    "buildingProductList": [
+      {
+        "roomType": "MANUFACTURE",
+        "formulaId": "6"
+      }
+    ]
+  },
+  "3243": {
+    "itemId": "3243",
+    "name": "狙击双芯片",
+    "description": "通过努力特训得来的素材，似乎能对资历颇深的狙击干员有特别的提升。",
+    "rarity": 4,
+    "iconId": "MTL_ASC_SNP3",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400004,
+    "usage": "通过记录特殊训练获得的成对存储芯片，有助于满足狙击干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [],
+    "buildingProductList": [
+      {
+        "roomType": "MANUFACTURE",
+        "formulaId": "8"
+      }
+    ]
+  },
+  "3233": {
+    "itemId": "3233",
+    "name": "重装双芯片",
+    "description": "通过努力特训得来的素材，似乎能对资历颇深的重装干员有特别的提升。",
+    "rarity": 4,
+    "iconId": "MTL_ASC_TNK3",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400005,
+    "usage": "通过记录特殊训练获得的成对存储芯片，有助于满足重装干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [],
+    "buildingProductList": [
+      {
+        "roomType": "MANUFACTURE",
+        "formulaId": "7"
+      }
+    ]
+  },
+  "3263": {
+    "itemId": "3263",
+    "name": "医疗双芯片",
+    "description": "通过努力特训得来的素材，似乎能对资历颇深的医疗干员有特别的提升。",
+    "rarity": 4,
+    "iconId": "MTL_ASC_MED3",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400006,
+    "usage": "通过记录特殊训练获得的成对存储芯片，有助于满足医疗干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [],
+    "buildingProductList": [
+      {
+        "roomType": "MANUFACTURE",
+        "formulaId": "10"
+      }
+    ]
+  },
+  "3273": {
+    "itemId": "3273",
+    "name": "辅助双芯片",
+    "description": "通过努力特训得来的素材，似乎能对资历颇深的辅助干员有特别的提升。",
+    "rarity": 4,
+    "iconId": "MTL_ASC_SUP3",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400007,
+    "usage": "通过记录特殊训练获得的成对存储芯片，有助于满足辅助干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [],
+    "buildingProductList": [
+      {
+        "roomType": "MANUFACTURE",
+        "formulaId": "11"
+      }
+    ]
+  },
+  "3253": {
+    "itemId": "3253",
+    "name": "术师双芯片",
+    "description": "通过努力特训得来的素材，似乎能对资历颇深的术师干员有特别的提升。",
+    "rarity": 4,
+    "iconId": "MTL_ASC_CST3",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400008,
+    "usage": "通过记录特殊训练获得的成对存储芯片，有助于满足术师干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [],
+    "buildingProductList": [
+      {
+        "roomType": "MANUFACTURE",
+        "formulaId": "9"
+      }
+    ]
+  },
+  "3283": {
+    "itemId": "3283",
+    "name": "特种双芯片",
+    "description": "通过努力特训得来的素材，似乎能对资历颇深的特种干员有特别的提升。",
+    "rarity": 4,
+    "iconId": "MTL_ASC_SPC3",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400009,
+    "usage": "通过记录特殊训练获得的成对存储芯片，有助于满足特种干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [],
+    "buildingProductList": [
+      {
+        "roomType": "MANUFACTURE",
+        "formulaId": "12"
+      }
+    ]
+  },
+  "3212": {
+    "itemId": "3212",
+    "name": "先锋芯片组",
+    "description": "通过努力特训得来的素材，似乎能对日渐成熟的先锋干员有特别的指导。",
+    "rarity": 3,
+    "iconId": "MTL_ASC_PIO2",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400010,
+    "usage": "通过记录特殊训练获得的存储芯片组，有助于满足先锋干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "pro_c_1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "51"
+      }
+    ]
+  },
+  "3222": {
+    "itemId": "3222",
+    "name": "近卫芯片组",
+    "description": "通过努力特训得来的素材，似乎能对日渐成熟的近卫干员有特别的指导。",
+    "rarity": 3,
+    "iconId": "MTL_ASC_GRD2",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400011,
+    "usage": "通过记录特殊训练获得的存储芯片组，有助于满足近卫干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "pro_d_1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "53"
+      }
+    ]
+  },
+  "3242": {
+    "itemId": "3242",
+    "name": "狙击芯片组",
+    "description": "通过努力特训得来的素材，似乎能对日渐成熟的狙击干员有特别的指导。",
+    "rarity": 3,
+    "iconId": "MTL_ASC_SNP2",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400012,
+    "usage": "通过记录特殊训练获得的存储芯片组，有助于满足狙击干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "pro_b_1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "49"
+      }
+    ]
+  },
+  "3232": {
+    "itemId": "3232",
+    "name": "重装芯片组",
+    "description": "通过努力特训得来的素材，似乎能对日渐成熟的重装干员有特别的指导。",
+    "rarity": 3,
+    "iconId": "MTL_ASC_TNK2",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400013,
+    "usage": "通过记录特殊训练获得的存储芯片组，有助于满足重装干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "pro_a_1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "47"
+      }
+    ]
+  },
+  "3262": {
+    "itemId": "3262",
+    "name": "医疗芯片组",
+    "description": "通过努力特训得来的素材，似乎能对日渐成熟的医疗干员有特别的指导。",
+    "rarity": 3,
+    "iconId": "MTL_ASC_MED2",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400014,
+    "usage": "通过记录特殊训练获得的存储芯片组，有助于满足医疗干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "pro_a_1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "48"
+      }
+    ]
+  },
+  "3272": {
+    "itemId": "3272",
+    "name": "辅助芯片组",
+    "description": "通过努力特训得来的素材，似乎能对日渐成熟的辅助干员有特别的指导。",
+    "rarity": 3,
+    "iconId": "MTL_ASC_SUP2",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400015,
+    "usage": "通过记录特殊训练获得的存储芯片组，有助于满足辅助干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "pro_c_1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "52"
+      }
+    ]
+  },
+  "3252": {
+    "itemId": "3252",
+    "name": "术师芯片组",
+    "description": "通过努力特训得来的素材，似乎能对日渐成熟的术师干员有特别的指导。",
+    "rarity": 3,
+    "iconId": "MTL_ASC_CST2",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400016,
+    "usage": "通过记录特殊训练获得的存储芯片组，有助于满足术师干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "pro_b_1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "50"
+      }
+    ]
+  },
+  "3282": {
+    "itemId": "3282",
+    "name": "特种芯片组",
+    "description": "通过努力特训得来的素材，似乎能对日渐成熟的特种干员有特别的指导。",
+    "rarity": 3,
+    "iconId": "MTL_ASC_SPC2",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400017,
+    "usage": "通过记录特殊训练获得的存储芯片组，有助于满足特种干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "pro_d_1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "54"
+      }
+    ]
+  },
+  "3211": {
+    "itemId": "3211",
+    "name": "先锋芯片",
+    "description": "通过努力特训得来的素材，似乎能对资历尚浅的先锋有特别的帮助。",
+    "rarity": 2,
+    "iconId": "MTL_ASC_PIO1",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400018,
+    "usage": "通过记录特殊训练获得的存储芯片，有助于满足先锋干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "pro_c_1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "43"
+      }
+    ]
+  },
+  "3221": {
+    "itemId": "3221",
+    "name": "近卫芯片",
+    "description": "通过努力特训得来的素材，似乎能对资历尚浅的近卫干员有特别的帮助。",
+    "rarity": 2,
+    "iconId": "MTL_ASC_GRD1",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400019,
+    "usage": "通过记录特殊训练获得的存储芯片，有助于满足近卫干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "pro_d_1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "45"
+      }
+    ]
+  },
+  "3241": {
+    "itemId": "3241",
+    "name": "狙击芯片",
+    "description": "通过努力特训得来的素材，似乎能对资历尚浅的狙击干员有特别的帮助。",
+    "rarity": 2,
+    "iconId": "MTL_ASC_SNP1",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400020,
+    "usage": "通过记录特殊训练获得的存储芯片，有助于满足狙击干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "pro_b_1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "41"
+      }
+    ]
+  },
+  "3231": {
+    "itemId": "3231",
+    "name": "重装芯片",
+    "description": "通过努力特训得来的素材，似乎能对资历尚浅的重装干员有特别的帮助。",
+    "rarity": 2,
+    "iconId": "MTL_ASC_TNK1",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400021,
+    "usage": "通过记录特殊训练获得的存储芯片，有助于满足重装干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "pro_a_1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "39"
+      }
+    ]
+  },
+  "3261": {
+    "itemId": "3261",
+    "name": "医疗芯片",
+    "description": "通过努力特训得来的素材，似乎能对资历尚浅的医疗干员有特别的帮助。",
+    "rarity": 2,
+    "iconId": "MTL_ASC_MED1",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400022,
+    "usage": "通过记录特殊训练获得的存储芯片，有助于满足医疗干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "pro_a_1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "40"
+      }
+    ]
+  },
+  "3271": {
+    "itemId": "3271",
+    "name": "辅助芯片",
+    "description": "通过努力特训得来的素材，似乎能对资历尚浅的辅助干员有特别的帮助。",
+    "rarity": 2,
+    "iconId": "MTL_ASC_SUP1",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400023,
+    "usage": "通过记录特殊训练获得的存储芯片，有助于满足辅助干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "pro_c_1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "44"
+      }
+    ]
+  },
+  "3251": {
+    "itemId": "3251",
+    "name": "术师芯片",
+    "description": "通过努力特训得来的素材，似乎能对资历尚浅的术师干员有特别的帮助。",
+    "rarity": 2,
+    "iconId": "MTL_ASC_CST1",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400024,
+    "usage": "通过记录特殊训练获得的存储芯片，有助于满足术师干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "pro_b_1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "42"
+      }
+    ]
+  },
+  "3281": {
+    "itemId": "3281",
+    "name": "特种芯片",
+    "description": "通过努力特训得来的素材，似乎能对资历尚浅的特种干员有特别的帮助。",
+    "rarity": 2,
+    "iconId": "MTL_ASC_SPC1",
+    "overrideBkg": null,
+    "stackIconId": null,
+    "sortId": 400025,
+    "usage": "通过记录特殊训练获得的存储芯片，有助于满足特种干员在晋升时的强化需要。",
+    "obtainApproach": null,
+    "classifyType": "MATERIAL",
+    "itemType": "MATERIAL",
+    "stageDropList": [
+      {
+        "stageId": "pro_d_1",
+        "occPer": "ALWAYS"
+      }
+    ],
+    "buildingProductList": [
+      {
+        "roomType": "WORKSHOP",
+        "formulaId": "46"
+      }
+    ]
+  }
+}
