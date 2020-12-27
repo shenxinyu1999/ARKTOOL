@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './css/index.css';
-import Material from './Material';
+import MaterialPanel from './MaterialPanel';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Material />
+    <MaterialPanel />
   </React.StrictMode>,
   document.getElementById('root')
 );
