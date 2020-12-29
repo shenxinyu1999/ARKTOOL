@@ -15,20 +15,8 @@ class Material extends React.Component {
         };
     }
 
-    handleNeedChange = (value) => {
-        this.setState({
-            need: +value
-        })
-    }
-
-    handleHaveChange = (value) => {
-        this.setState({
-            have: +value
-        })
-    }
-
     render() {
-        const missing = Math.max(this.state.need - this.state.have, 0);
+        const missing = Math.max(this.props.need - this.props.have, 0);
         let className = classNames(
             'Material',
             {
@@ -50,9 +38,9 @@ class Material extends React.Component {
                     </Box>
                 </Box>
                 <Box display="flex" flexDirection="row">
-                    <Counter text="需要" value={this.state.need} handleCountChange={this.handleNeedChange}/>
+                    <Counter text="需要" value={this.props.need} handleCountChange={(value) => this.props.handleNeedChange(value)}/>
                     &nbsp;&nbsp;
-                    <Counter text="已有" value={this.state.have} handleCountChange={this.handleHaveChange}/>
+                    <Counter text="已有" value={this.props.have} handleCountChange={(value) => this.props.handleHaveChange(value)}/>
                 </Box>
             </Box>
         );
