@@ -12,7 +12,7 @@ class MaterialPanel extends React.Component {
 
     render() {
         return Object.values(materials).map((item) => {
-            return <Material key={item.itemId} name={item.name} />
+            return <Material key={item.itemId} name={item.name} rarity={item.rarity}/>
         })
     }
 }

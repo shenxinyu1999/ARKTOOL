@@ -1,0 +1,25 @@
+.rarity-gold {
+    border-color: gold;
+}
+
+.rarity-purple {
+    border-color: plum;
+}
+
+.rarity-blue {
+    border-color: skyblue;
+}
+
+.rarity-green {
+    border-color: lightgreen;
+}
+
+.rarity-white {
+    border-color: lightslategray;
+}
+
+.Material {
+    border-style: solid;
+    border-radius: 15px;
+    margin: 10px;
+}
